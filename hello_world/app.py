@@ -11,7 +11,7 @@ from dateutil.tz import tzlocal
 from urllib.request import Request, urlopen, URLError, HTTPError
 
 # slack hook - should be changed to your webhook
-HOOK_URL = "https://hooks.slack.com/services/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"
+HOOK_URL = "https://hooks.slack.com/services/"
 
 # error logging
 logger = logging.getLogger()
